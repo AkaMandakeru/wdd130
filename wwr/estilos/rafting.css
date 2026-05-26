@@ -103,13 +103,14 @@ nav, p, section, article {
 
 section h2 {
     margin-bottom: 10px;
+    color: var(--cor-acento1);
 }
 
-.redes-sociais a {
+.socialmedia a {
     text-decoration: none;
 }
 
-.redes-sociais img {
+.socialmedia img {
     width: 30px;
     height: auto;
     margin: 0 5px;
